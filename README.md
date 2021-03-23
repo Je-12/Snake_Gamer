@@ -1,4 +1,4 @@
-# Jogo da cobrinha 🐍
+# Projeto: Jogo da cobrinha 🐍
 
 ## Conteudo:
 - Desafio da DIO ✅
