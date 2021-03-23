@@ -1,5 +1,5 @@
 # Projeto: Jogo da cobrinha 🐍
 
 ## Conteudo:
-- Desafio da DIO ✅
+- Desafio da Digital Innovation one ✅
 - Criando de forma dinamica o joguinho na pagina da web.
